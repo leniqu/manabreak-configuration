@@ -46,15 +46,11 @@ If you prefer to review everything and install dependencies manually, make sure 
 * **Nerd Fonts** (required for system icons)
 
 ### Manual Installation Steps:
-1. Create the target config directory:
-   ```bash
-   mkdir -p ~/.config/quickshell
-   ```
-2. Clone this repository directly inside it:
+1. Clone this repository directly inside it:
    ```bash
    git clone https://github.com/leniqu/manabreak-configuration.git ~/.config/quickshell
    ```
-3. Test the setup manually:
+2. Test the setup manually:
    ```bash
    quickshell --config ~/.config/quickshell
    ```
