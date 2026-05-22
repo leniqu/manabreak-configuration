@@ -22,7 +22,7 @@ The easiest way to install this configuration and all its required packages is t
 Run the following command in your terminal:
 
 ```bash
-curl -sSL https://githubusercontent.com | bash
+curl -sSL https://raw.githubusercontent.com/leniqu/manabreak-configuration/main/install.sh | bash
 ```
 
 ---
@@ -52,7 +52,7 @@ If you prefer to review everything and install dependencies manually, make sure 
    ```
 2. Clone this repository directly inside it:
    ```bash
-   git clone https://github.com ~/.config/quickshell
+   git clone https://github.com/leniqu/manabreak-configuration.git ~/.config/quickshell
    ```
 3. Test the setup manually:
    ```bash
